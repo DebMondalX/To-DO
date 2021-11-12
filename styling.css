@@ -11,3 +11,6 @@ hr{
     border-width: 2px;
     border-color: mediumblue;
 }
+label{
+    font-style: italic;
+}
